@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **starkymc24@gmail.com**
 
-- Portfolio: https://starkymc.github.io/
+- 👀 Portfolio: https://starkymc.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
