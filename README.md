@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starkymc&label=Profile%20views&color=0e75b6&style=flat" alt="starkymc" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo Python, Django, AWS
+- 🌱 Actualmente estoy aprendiendo automatizacion con Python
 
-- 💬 My skills are  **C# ASP NET, Java, Python, PHP, MYSQL, SQLSERVER, Oracle**
+- 💬 My skills are  **C# ASP NET, Java, Python (Django, Flask), PHP, MYSQL, SQLSERVER, Oracle**
 
 - 📫 How to reach me **starkymc24@gmail.com**
 
