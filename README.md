@@ -10,16 +10,16 @@
 
 - 🌱 Actualmente estoy aprendiendo automatizacion con Python
 
-- 💬 My skills are  **C# ASP NET, Java, Python (Django, Flask), PHP, MYSQL, SQLSERVER, Oracle**
+- 💬 Mis habilidades son  **C# ASP NET, Java, Python (Django, Flask), PHP, MYSQL, SQLSERVER, Oracle**
 
-- 📫 How to reach me **starkymc24@gmail.com**
+- 📫 Como contactarme **starkymc24@gmail.com**
 
 - 👀 Portfolio: https://starkymc.github.io/
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- Conecta conmigo en LinkedIn <p align="left">
 <a href="https://linkedin.com/in/starkymc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starkymc" height="30" width="40" /></a>
 </p>
+
+
 
 
 
