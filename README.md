@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Starky</h1>
 
 <div align="center">
-<img aling="center" width="400" height="300" src="https://i.ibb.co/9NC4D13/starky.jpg" />
+<img aling="center" width="400" height="300" src="a.png" />
 </div>
 
 <h3 align="center">Soy desarrollador backend, me gusta convertir ideas en codigo 😎.</h3>
